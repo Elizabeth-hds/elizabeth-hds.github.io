@@ -17,6 +17,6 @@ Welcome to my **website repo**, where I test and experiment with new web feature
 ## 🛠️ How to Use
 
 1. Clone the repo:
-   ```bash
+```bash
    git clone https://github.com/yourusername/your-repo.git
 ```
